@@ -59,7 +59,7 @@ python visualize.py --config config/REAL/camera_real.yaml --test_epoch 40
 ```
 ![image](.\keypoints comparison.png)
 
-![image](.\REAL275 result.png)
+![image](.\Real275 result.png)
 
 
 ## Acknowledgements
